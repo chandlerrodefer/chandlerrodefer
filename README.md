@@ -3,6 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
 - [SIEM Home Lab](https://github.com/chandlerrodefer/SIEM-Home-Lab/blob/main/README.md)
+- [Active Directory Home Lab](https://github.com/chandlerrodefer/Active-Directory-Home-Lab/blob/main/README.md)
 
 <h2> Certifications:</h2>
 
