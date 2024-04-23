@@ -1,4 +1,4 @@
-<h1>Hello, I'm Chandler!
+<h1>Hello, I'm Chandler Rodefer!
 
 <h2> IT/Cyber Security Projects:</h2>
 
@@ -6,6 +6,8 @@
 - [Active Directory Home Lab](https://github.com/chandlerrodefer/Active-Directory-Home-Lab/blob/main/README.md)
 
 <h2> Programming Projects:</h2>
+
+-
 
 <h2> Certifications:</h2>
 
@@ -19,6 +21,9 @@
 - LPI Linux Essentials
 - Axelos ITIL4 Foundation
 
+<h2> Degrees:</h2>
+
+- Bachelor of Science in Cyber Security and Information Assurance
 <h2> Connect with me:</h2>
 
 
