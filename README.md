@@ -10,9 +10,9 @@
 - [Simple Password Generator](https://github.com/chandlerrodefer/Simple-Password-Generator-using-Python)
 - [BMI Calculator](https://github.com/chandlerrodefer/BMI-Calculator)
 - [Tip Calculator](https://github.com/chandlerrodefer/Tip-calculator.)
-- [Classic FizzBuzz task](https://github.com/chandlerrodefer/Classic-FizzBuzz-task.)
+- [Classic FizzBuzz Task](https://github.com/chandlerrodefer/Classic-FizzBuzz-task.)
 - [Simple Rock, Paper, Scissors Game](https://github.com/chandlerrodefer/Rock-Paper-Scissors-simple-game.)
-- [Simple Story game](https://github.com/chandlerrodefer/Treasure-Map-Mini-game.)
+- [Simple Story Game](https://github.com/chandlerrodefer/Treasure-Map-Mini-game.)
 
 <h2> Certifications:</h2>
 
