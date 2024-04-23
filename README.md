@@ -13,6 +13,7 @@
 - [Classic FizzBuzz Task](https://github.com/chandlerrodefer/Classic-FizzBuzz-task.)
 - [Simple Rock, Paper, Scissors Game](https://github.com/chandlerrodefer/Rock-Paper-Scissors-simple-game.)
 - [Simple Story Game](https://github.com/chandlerrodefer/Treasure-Map-Mini-game.)
+- [SQL Practice](https://github.com/chandlerrodefer/SQL-Practice/blob/main/README.md)
 
 <h2> Certifications:</h2>
 
