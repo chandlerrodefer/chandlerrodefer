@@ -1,16 +1,23 @@
 <h1>Hello, I'm Chandler!
 
-<h2> Cybersecurity Projects:</h2>
+<h2> IT/Cyber Security Projects:</h2>
 
 - [SIEM Home Lab](https://github.com/chandlerrodefer/SIEM-Home-Lab/blob/main/README.md)
-
-<h2> General IT Projects:</h2>
-  
 - [Active Directory Home Lab](https://github.com/chandlerrodefer/Active-Directory-Home-Lab/blob/main/README.md)
+
+<h2> Programming Projects:</h2>
 
 <h2> Certifications:</h2>
 
-- [CompTIA Network+](Link)
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA CySA+
+- CompTIA PenTest+
+- CompTIA Project+
+- ISC2 Systems Security Certified Practitioner (SSCP)
+- LPI Linux Essentials
+- Axelos ITIL4 Foundation
 
 <h2> Connect with me:</h2>
 
@@ -21,4 +28,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/chandler-rodefer
+[linkedin]: www.linkedin.com/in/chandlerrodefer
