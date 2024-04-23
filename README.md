@@ -8,6 +8,7 @@
 <h2> Programming Projects:</h2>
 
 - [Simple Password Generator](https://github.com/chandlerrodefer/Simple-Password-Generator-using-Python)
+- [BMI Calculator](https://github.com/chandlerrodefer/BMI-Calculator)
 - [Tip Calculator](https://github.com/chandlerrodefer/Tip-calculator.)
 - [Classic FizzBuzz task](https://github.com/chandlerrodefer/Classic-FizzBuzz-task.)
 - [Simple Rock, Paper, Scissors Game](https://github.com/chandlerrodefer/Rock-Paper-Scissors-simple-game.)
