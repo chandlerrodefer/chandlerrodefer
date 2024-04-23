@@ -7,7 +7,7 @@
 
 <h2> Programming Projects:</h2>
 
--
+-[Simple Password Generator](https://github.com/chandlerrodefer/Simple-Password-Generator-using-Python)
 
 <h2> Certifications:</h2>
 
