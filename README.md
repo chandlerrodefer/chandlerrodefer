@@ -8,8 +8,9 @@
 <h2> Programming Projects:</h2>
 
 - [Simple Password Generator](https://github.com/chandlerrodefer/Simple-Password-Generator-using-Python)
-- [Simple Rock, Paper, Scissors Game.](https://github.com/chandlerrodefer/Rock-Paper-Scissors-simple-game.)
-- [Simple Story game.](https://github.com/chandlerrodefer/Treasure-Map-Mini-game.)
+- [Simple Rock, Paper, Scissors Game](https://github.com/chandlerrodefer/Rock-Paper-Scissors-simple-game.)
+- [Simple Story game](https://github.com/chandlerrodefer/Treasure-Map-Mini-game.)
+- [Tip Calculator](https://github.com/chandlerrodefer/Tip-calculator.)
 
 <h2> Certifications:</h2>
 
