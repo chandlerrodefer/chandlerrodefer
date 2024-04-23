@@ -8,6 +8,7 @@
 <h2> Programming Projects:</h2>
 
 - [Simple Password Generator](https://github.com/chandlerrodefer/Simple-Password-Generator-using-Python)
+- [Simple Rock, Paper, Scissors Game.](https://github.com/chandlerrodefer/Rock-Paper-Scissors-simple-game.)
 
 <h2> Certifications:</h2>
 
