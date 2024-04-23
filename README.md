@@ -9,6 +9,7 @@
 
 - [Simple Password Generator](https://github.com/chandlerrodefer/Simple-Password-Generator-using-Python)
 - [Simple Rock, Paper, Scissors Game.](https://github.com/chandlerrodefer/Rock-Paper-Scissors-simple-game.)
+- [Simple Story game.](https://github.com/chandlerrodefer/Treasure-Map-Mini-game.)
 
 <h2> Certifications:</h2>
 
