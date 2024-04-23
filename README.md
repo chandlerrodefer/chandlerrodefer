@@ -1,5 +1,4 @@
-<h1>Hello, I'm Chandler Rodefer!
-<h2> Welcome to my profile!</h2>
+<h1>Hello, I'm Chandler Rodefer! Welcome to my profile!
 
 <h2> IT/Cyber Security Projects:</h2>
 
